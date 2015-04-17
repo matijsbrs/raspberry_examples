@@ -24,6 +24,9 @@ Compileer de wiringPi library:
 
 	./build									*Compileer en installeer software*
 	
+Voor informatie over wiringPi kijk op: [wiringPi](http://wiringpi.com)<br>
+Voor details informatie over de blink applicatie: [blink app example](http://wiringpi.com/examples/blink/)
+	
 ### Voorbeelden c++
 
 Om de voorbeelden te compileren is `g++` nodig.
